@@ -340,4 +340,6 @@ Planned improvements:
 
 ## License
 
-No license has been selected yet. Add a license before accepting external contributions.
+DevDash is licensed under the [Apache License 2.0](LICENSE).
+
+Apache-2.0 was chosen because it is a mature open-source license with an explicit patent grant, clear redistribution terms, and broad compatibility for personal, commercial, and contributor-driven use.
