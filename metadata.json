@@ -1,0 +1,6 @@
+{
+  "name": "DevDash V2",
+  "description": "A highly advanced Developer Operations Command Center with glassmorphism, live-updating metrics, and system monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
